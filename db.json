@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "123",
+      "name": "Pizza",
+      "price": "36000",
+      "quantity": "6"
+    },
+    {
+      "id": "356",
+      "name": "Burguer",
+      "price": "45000",
+      "quantity": "4"
+    },
+    {
+      "id": "8f1f",
+      "name": "Arroz",
+      "price": "5000",
+      "quantity": "10"
+    },
+    {
+      "id": "42b7",
+      "name": "Lentejas",
+      "price": "600",
+      "quantity": "6"
+    },
+    {
+      "name": "Pepina",
+      "price": "420",
+      "quantity": "1",
+      "id": "ff9b"
+    },
+    {
+      "name": "Brocoli",
+      "price": "623",
+      "quantity": "3",
+      "id": "7dc6"
+    }
+  ]
+}
